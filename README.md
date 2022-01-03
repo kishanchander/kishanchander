@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @kishanchander
 - 👀 I’m interested in game development, virtual reality, blockchain, and sci-fi things!
-- 🌱 I’m currently working on a cool stuff!
+- 🌱 I’m currently working on a cool stuff!(atleast for me...)
 
 <!---
 kishanchander/kishanchander is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
